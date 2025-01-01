@@ -62,7 +62,7 @@ export default function Home() {
           onClick={handleButtonCelebrate}
           className="mt-8 px-12 py-5 bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white font-bold text-lg sm:text-xl rounded-full shadow-xl hover:shadow-2xl transform hover:scale-110 hover:animate-pulse transition duration-300"
         >
-          Click Me to Celebrate 🎊
+          Click Anywhere to Celebrate 🎊
         </button>
       </div>
     </div>
